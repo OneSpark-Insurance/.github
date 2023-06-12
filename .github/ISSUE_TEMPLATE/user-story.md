@@ -15,7 +15,8 @@ assignees: ''
 - [ ] Task 2
 
 ## Acceptance Criteria
-- 
+- [ ] AC 1
+- [ ] AC 2
 
 ## Pre-Requisites / Dependencies
 -
