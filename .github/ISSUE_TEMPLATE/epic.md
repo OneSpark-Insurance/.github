@@ -7,7 +7,9 @@ assignees: ''
 
 ---
 
-## Reporter:  [Person requesting requirements / product owner]
+## Reporter:  
+[Person requesting requirements / product owner]
+
 ## Requirement/s:
 - 
 
@@ -34,7 +36,7 @@ assignees: ''
 ## Visual Elements:
 [insert mock-ups / wireframes]
 
-##Pre-Requisites, Assumptions and Dependencies:
+## Pre-Requisites, Assumptions and Dependencies:
 - 
 
 ## Business Area Impact:
