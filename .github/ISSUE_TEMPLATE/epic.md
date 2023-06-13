@@ -8,7 +8,10 @@ assignees: ''
 ---
 
 ## Reporter:  
-[Person requesting requirements / product owner]
+[Person requesting requirements]
+
+## Product Owner:
+[Person who owns the business area and responsible for signing off requirement]
 
 ## Requirement/s:
 - 
