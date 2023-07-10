@@ -18,5 +18,9 @@ assignees: ''
 - [ ] AC 1
 - [ ] AC 2
 
+## Alerting / Monitoring Required
+- [] Alert 1
+- [] Alert 2
+
 ## Pre-Requisites / Dependencies
 -
