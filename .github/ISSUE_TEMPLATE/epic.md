@@ -16,6 +16,12 @@ assignees: ''
 ## Requirement/s:
 - 
 
+## In Scope:
+- 
+
+## Out of Scope:
+- 
+
 ## Business Value / Objective:
 - 
 
