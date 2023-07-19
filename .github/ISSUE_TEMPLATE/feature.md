@@ -1,9 +1,8 @@
 ---
-name: Epic
-about: Used for extra large business requirements with multiple features (parent of
-  feature)
-title: "[Epic] "
-labels: epic
+name: Feature
+about: Used for large business requirements (parent of user story)
+title: "[Feature] "
+labels: feature
 assignees: ''
 
 ---
