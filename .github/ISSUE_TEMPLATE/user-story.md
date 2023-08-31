@@ -8,19 +8,30 @@ assignees: ''
 ---
 
 ## Description
-[Description of work to be done / requirement]
 
-## Technical
-- [ ] Task 1
-- [ ] Task 2
+`Description of work to be done / requirement`
+
+
+## Tasks
+
+```[tasklist]
+### Technical Tasks
+```
 
 ## Acceptance Criteria
-- [ ] AC 1
-- [ ] AC 2
+
+```[tasklist]
+### Acceptance Criteria
+```
 
 ## Alerting / Monitoring Required
-- [ ] Alert 1
-- [ ] Alert 2
+
+
+```[tasklist]
+### Alertin / Monitoring
+```
+
 
 ## Pre-Requisites / Dependencies
--
+
+1. 

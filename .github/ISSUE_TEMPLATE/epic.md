@@ -8,48 +8,73 @@ assignees: ''
 
 ---
 
-## Reporter:  
-[Person requesting requirements]
+## Reporter
 
-## Product Owner:
-[Person who owns the business area and responsible for signing off requirement]
+`Person requesting requirements`
+
+## Product Owner
+
+`Person who owns the business area and responsible for signing off requirement`
+
+## Break down
+
+```[tasklist]
+### Task Breakdown
+```
 
 ## Requirement/s:
-- 
 
-## In Scope:
-- 
 
-## Out of Scope:
-- 
+1. Requirement 1
 
-## Business Value / Objective:
-- 
+## In Scope
 
-## Process Flow Diagram:
-[insert image/s]
 
-## Core Business Rules:	
-| # | Rule: | Details: | Comment/s: |
-| ----------- | ----------- | ----------- | ----------- |
-| 1 | Text | Text | Text |
-| 2 | Text | Text | Text |
-| 3 | Text | Text | Text |
+1. Scope 1
 
-## Edge Cases and Handling:
-| # | Case: | Handling: | Comment/s: |
-| ----------- | ----------- | ----------- | ----------- |
-| 1 | Text | Text | Text |
-| 2 | Text | Text | Text |
-| 3 | Text | Text | Text |
 
-## Visual Elements:
-[insert mock-ups / wireframes]
+## Out of Scope
+
+1. Out of scope 1
+
+## Business Value / Objective
+
+1.
+
+## Process Flow Diagram
+
+`insert image/s`
+
+## Core Business Rules
+
+| #   | Rule | Details | Comment/s |
+| ----| ---- | ------- | --------- |
+| 1   | Text | Text    | Text      |
+| 2   | Text | Text    | Text      |
+| 3   | Text | Text    | Text      |
+
+## Edge Cases and Handling
+
+| #   | Case | Handling | Comment/s |
+| --- | ---- | -------- | --------- |
+| 1   | Text | Text     | Text      |
+| 2   | Text | Text     | Text      |
+| 3   | Text | Text     | Text      |
+
+## Visual Elements
+
+`insert mock-ups / wireframes`
 
 ## Pre-Requisites, Assumptions and Dependencies:
-- 
 
-## Business Area Impact:
-- 
+1.
 
-## Appendices:
+
+## Business Area Impact
+
+1.
+
+
+## Appendices
+
+### Appendix 1 - Whatever It is About
