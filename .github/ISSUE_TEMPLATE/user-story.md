@@ -26,9 +26,8 @@ assignees: ''
 
 ## Alerting / Monitoring Required
 
-
 ```[tasklist]
-### Alertin / Monitoring
+### Alerting / Monitoring
 ```
 
 
