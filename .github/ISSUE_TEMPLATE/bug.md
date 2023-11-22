@@ -10,9 +10,9 @@ assignees: ''
 ## Repro Steps
 [Steps to reproduce the bug]
 
-### Date / Time of incident
+## Date / Time of incident
 
-### Steps followed, leading up to the incident:
+## Steps followed, leading up to the incident:
 
 ## Expected Result:
 

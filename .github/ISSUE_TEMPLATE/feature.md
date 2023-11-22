@@ -7,7 +7,6 @@ assignees: ''
 
 ---
 
-
 ## Reporter
 
 `Person requesting requirements`
