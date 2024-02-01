@@ -2,7 +2,7 @@
 name: Bug
 about: Create a report explaining the defect
 title: "[Bug] "
-labels: bug
+labels: bug, enhancement
 assignees: ''
 
 ---
@@ -17,6 +17,10 @@ assignees: ''
 ## Expected Result:
 
 ## Actual Result:
+
+## Is specific system access required to complete this work item?
+
+- 
 
 ## System Info:
 [Environment]

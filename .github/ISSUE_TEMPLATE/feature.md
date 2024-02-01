@@ -22,3 +22,8 @@ assignees: ''
 
 ## Visual Elements
 `insert link to Figma`
+
+
+## Is specific system access required to complete this work item?
+
+-
