@@ -30,6 +30,13 @@ assignees: ''
 ### Alerting / Monitoring
 ```
 
+## Tests required:
+
+- [ ] Positive / Negative tests
+- [ ] Unit tests
+- [ ] Integration tests
+- [ ] Frontend tests
+
 ## Is specific system access required to complete this work item?
 
 - 
